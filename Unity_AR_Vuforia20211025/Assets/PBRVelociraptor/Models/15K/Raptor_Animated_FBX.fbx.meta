@@ -120,6 +120,9 @@ ModelImporter:
   - first:
       74: 7897905309349255468
     second: RaptorArmature|Raptor_Walk_Anim_RM
+  - first:
+      74: -1965590675092222020
+    second: RaptorArmature|Raptor_Call1_Anim (1)
   externalObjects: {}
   materials:
     materialImportMode: 1

@@ -13,7 +13,7 @@ public class ShowCanvas : MonoBehaviour
     /// <summary>
     /// ¶}©l²H¤J
     /// </summary>
-    public void StaetFade(float increase)
+    public void StartFade(float increase)
     {
         StartCoroutine(FadeCanvas(increase));
     }
